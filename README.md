@@ -1,11 +1,15 @@
 # optixGcodeViewer
 Simple G-code viewer using OptiX 7
 
-Tested with OptiX 7.3.0 SDK and CUDA 10.1
+Tested with:
+ * Visual Studio Community 2017
+ * CUDA 10.1 and CUDA 11.5
+ * OptiX 7.3.0 SDK
 
 ## Installation instructions
 
-1. If you haven't got them already, install CMake, CUDA 10.x and OptiX 7.3.0 from:
+1. If you haven't got them already, install Visual Studio 2017, CMake, CUDA 10.x or 11.x and OptiX 7.3.0 from:
+  * https://my.visualstudio.com/Downloads?q=visual%20studio%202017&wt.mc_id=o~msft~vscom~older-downloads
   * https://cmake.org/download/
   * https://developer.nvidia.com/cuda-toolkit
   * https://developer.nvidia.com/optix
