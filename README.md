@@ -1,7 +1,7 @@
 # optixGcodeViewer
 Simple G-code viewer using OptiX 7
 
-Tested with:
+Tested on Windows 10 with:
  * Visual Studio Community 2017
  * CUDA 10.1 and CUDA 11.5
  * OptiX 7.3.0 SDK
